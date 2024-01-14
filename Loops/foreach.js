@@ -2,21 +2,21 @@ const languages = ["html", "css","js", "php", "python"]
 
 
 
-// languages.forEach(function(element) {
+languages.forEach(function(element) {
 
-//     console.log(element)
-// })
+    console.log(element)
+})
 
-// function myfunct1(item){
-//     console.log(item)
-// }
+function myfunct1(item){
+    console.log(item)
+}
 
-// languages.forEach(myfunct1)
+languages.forEach(myfunct1)
 
 
-// languages.forEach((items, index, arr)=> {
-//     console.log(items, index, arr)
-// })
+languages.forEach((items, index, arr)=> {
+    console.log(items, index, arr)
+})
 
 let codeing = [
     {

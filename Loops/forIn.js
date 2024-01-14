@@ -7,10 +7,10 @@ const myobj = {
     2: "css",
     3: "js"
 }
-// for (const key in myobj) {
-//     const element = key;
-//     console.log(`${key} value is ${myobj[key]}`)
-// }
+for (const key in myobj) {
+    const element = key;
+    console.log(`${key} value is ${myobj[key]}`)
+}
 
 
 // ForIn loop In Array

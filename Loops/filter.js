@@ -1,21 +1,21 @@
-// let myarr = ["a","s","d","f"]
+let myarr = ["a","s","d","f"]
 
 // let myarr = [12,23,34,45]
-// let myarry =  myarr.filter((fltr) => (fltr>2))
+let myarry =  myarr.filter((fltr) => (fltr>2))
 
-// console.log(myarry)
+console.log(myarry)
 
-// newNums = [1,2,3,4,5,6,7,8,9,0]
+newNums = [1,2,3,4,5,6,7,8,9,0]
 
 
-// const newNums = []
+const newNums = []
 
-// myNums.forEach( (fltr) => {
-//     if (fltr > 4) {
-//         newNums.push(fltr)
-//     }
-// } )
-// console.log(newNums);
+myNums.forEach( (fltr) => {
+    if (fltr > 4) {
+        newNums.push(fltr)
+    }
+} )
+console.log(newNums);
 
 
 
